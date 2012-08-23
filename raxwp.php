@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: RAX WP
-Plugin URI: http://rackspace.com
+Plugin URI: http://github.com/slizadel/raxwp
 Description: Sets a cookie to identify an admin user for Rackspace WP scaling
 Version: 0.1
 Author: Slade Cozart
